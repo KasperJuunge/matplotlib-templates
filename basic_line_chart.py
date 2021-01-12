@@ -19,7 +19,7 @@ width_line = 2
 width_xmargins = 0
 width_ymargins = 0.5
 color_line  = None
-fig_size = (18,10)
+fig_size = (12,8)
 loc_legend = 'upper right'
 
 # Chart
